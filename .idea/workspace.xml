@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6460d128-731d-4201-848e-c15420e62ae0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayQueue/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedLIst/LinkLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedLIst/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedLIst/Node.java" afterDir="false" />
+    <list default="true" id="6460d128-731d-4201-848e-c15420e62ae0" name="Changes" comment="Datastructures and Algorithm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedLIst/LinkLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedLIst/LinkLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedLIst/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedLIst/MainClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,14 +31,14 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedLIst.MainClass" />
@@ -70,7 +67,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672138923546</updated>
-      <workItem from="1672138925640" duration="4663000" />
+      <workItem from="1672138925640" duration="4702000" />
+      <workItem from="1672221131269" duration="475000" />
+      <workItem from="1672243271841" duration="31000" />
+      <workItem from="1672305154863" duration="3128000" />
     </task>
     <task id="LOCAL-00001" summary="Datastructures and Algorithm">
       <created>1672139166713</created>
@@ -79,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672139166713</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Datastructures and Algorithm">
+      <created>1672143598495</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672143598495</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

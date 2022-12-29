@@ -1,5 +1,8 @@
 package LinkedLIst;
 
+import Arrays.Array;
+
+import java.util.Arrays;
 import java.util.LinkedList;
 
 public class MainClass {
@@ -10,8 +13,8 @@ public class MainClass {
         list.addLast(10);
         list.addLast(20);
         list.addLast(30);
+        //        x.removeFirst();
 
-        x.removeFirst();
 
         System.out.println(list.indexOf(10));
         System.out.println(list.indexOf(20));
@@ -20,6 +23,24 @@ public class MainClass {
 
         System.out.println(list.contains(40));
         System.out.println(list.contains(10));
+
+
+        System.out.println(list.size());
+
+        list.reverse();
+
+
+        var array = list.toArray();
+//        Arrays.toString(array);
+        System.out.println(Arrays.toString(array));
+        System.out.println(list.getKthFromTheEnd(-1));
+
+
+
+
+
+
+
 
 
 

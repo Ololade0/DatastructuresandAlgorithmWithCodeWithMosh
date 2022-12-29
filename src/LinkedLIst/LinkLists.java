@@ -5,7 +5,7 @@ import java.util.NoSuchElementException;
 
 public class LinkLists {
     private Node first;
-    private Node last;
+   private   Node last;
     private int size;
 
 
@@ -28,6 +28,7 @@ public class LinkLists {
             last.next = node;
             last = node;
         }
+        size++;
     }
 
 
@@ -41,6 +42,7 @@ public class LinkLists {
             node.next = first;
             first = node;
         }
+        size++;
     }
     private boolean isEmpty(){
         return first == null;
@@ -184,22 +186,22 @@ public class LinkLists {
         return false;
     }
 
-    public static LinkedList createWithLoop() {
-        var list = new LinkedList();
+    public static LinkedList<Integer> createWithLoop() {
+        LinkedList<Integer> list = new LinkedList<Integer>();
         list.addLast(10);
         list.addLast(20);
         list.addLast(30);
 
         // Get a reference to 30
-        var node = list.last;
+        var node = list.getLast();
 
         list.addLast(40);
         list.addLast(50);
 
         // Create the loop
-        list.last.next = node;
+//        list.last.next = node;
 
         return list;
     }
 }
-}
+
