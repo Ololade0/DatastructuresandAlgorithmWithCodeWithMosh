@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6460d128-731d-4201-848e-c15420e62ae0" name="Changes" comment="Datastructures and Algorithm">
+    <list default="true" id="6460d128-731d-4201-848e-c15420e62ae0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedLIst/LinkLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedLIst/LinkLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedLIst/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedLIst/MainClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +68,8 @@
       <workItem from="1672138925640" duration="4702000" />
       <workItem from="1672221131269" duration="475000" />
       <workItem from="1672243271841" duration="31000" />
-      <workItem from="1672305154863" duration="3128000" />
+      <workItem from="1672305154863" duration="3620000" />
+      <workItem from="1672339468154" duration="553000" />
     </task>
     <task id="LOCAL-00001" summary="Datastructures and Algorithm">
       <created>1672139166713</created>
@@ -86,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672143598495</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Datastructures and Algorithm">
+      <created>1672312808600</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672312808600</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
