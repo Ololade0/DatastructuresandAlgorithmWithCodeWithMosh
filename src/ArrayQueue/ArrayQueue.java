@@ -23,13 +23,11 @@ public class ArrayQueue {
 
         public int dequeue() {
             if (isEmpty())
-                throw new IllegalStateException();
-
+            throw new IllegalStateException();
             var item = items[front];
             items[front] = 0;
             front = (front + 1) % items.length;
             count--;
-
             return item;
         }
 

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6460d128-731d-4201-848e-c15420e62ae0" name="Changes" comment="">
+    <list default="true" id="6460d128-731d-4201-848e-c15420e62ae0" name="Changes" comment="Datastructures and Algorithm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayQueue/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayQueue/ArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +72,9 @@
       <workItem from="1672243271841" duration="31000" />
       <workItem from="1672305154863" duration="3620000" />
       <workItem from="1672339468154" duration="553000" />
+      <workItem from="1673082526004" duration="2587000" />
+      <workItem from="1673091361996" duration="23000" />
+      <workItem from="1673688963767" duration="906000" />
     </task>
     <task id="LOCAL-00001" summary="Datastructures and Algorithm">
       <created>1672139166713</created>
