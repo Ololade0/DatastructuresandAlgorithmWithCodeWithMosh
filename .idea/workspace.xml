@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6460d128-731d-4201-848e-c15420e62ae0" name="Changes" comment="Datastructures and Algorithm">
+      <change afterPath="$PROJECT_DIR$/src/stack/BalancedExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/StackArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/StringReverser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayQueue/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayQueue/ArrayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.stack.MainClass">
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedLIst.MainClass" />
       <module name="DatastructuresandAlgorithm2" />
@@ -53,8 +55,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="stack.MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.MainClass" />
+      <module name="DatastructuresandAlgorithm2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.stack.MainClass" />
         <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
@@ -74,7 +90,8 @@
       <workItem from="1672339468154" duration="553000" />
       <workItem from="1673082526004" duration="2587000" />
       <workItem from="1673091361996" duration="23000" />
-      <workItem from="1673688963767" duration="906000" />
+      <workItem from="1673688963767" duration="4008000" />
+      <workItem from="1673944671671" duration="6967000" />
     </task>
     <task id="LOCAL-00001" summary="Datastructures and Algorithm">
       <created>1672139166713</created>
@@ -97,11 +114,29 @@
       <option name="project" value="LOCAL" />
       <updated>1672312808600</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Datastructures and Algorithm">
+      <created>1673689896691</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673689896691</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Datastructures and Algorithm" />
