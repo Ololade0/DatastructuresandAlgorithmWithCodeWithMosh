@@ -1,7 +1,8 @@
 package stack;
 
 
-import java.beans.Expression;
+import HashTable.FindFirstRepeatedChar;
+import HashTable.FindFirstUnrepeatedChar;
 
 //STACK IS NOT USE TO STORE OBJECT
 //CAN REVERSE A STRING
@@ -47,7 +48,15 @@ public class MainClass {
         System.out.println(stackArray.isEmpty());
 
 
+//        UNREPEATEDCHAR TEST
+        FindFirstUnrepeatedChar charfinder = new FindFirstUnrepeatedChar();
+        var ch = charfinder.findFirstNonRepeatingChar("a green apple");
+        System.out.println(ch);
 
 
+        FindFirstRepeatedChar findFirstrepeatedChar = new FindFirstRepeatedChar();
+        var words = findFirstrepeatedChar.findFirstRepeatedChar("A green App");
+        System.out.println(words);
     }
+
 }

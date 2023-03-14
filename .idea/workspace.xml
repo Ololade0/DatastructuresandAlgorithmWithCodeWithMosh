@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6460d128-731d-4201-848e-c15420e62ae0" name="Changes" comment="Datastructures and Algorithm">
-      <change afterPath="$PROJECT_DIR$/src/stack/BalancedExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/StackArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/StringReverser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashTable/FindFirstRepeatedChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashTable/FindFirstUnrepeatedChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashTable/Hash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashTable/HashFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/Queues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayQueue/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayQueue/ArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/StackArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack/StackArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +44,43 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
   <component name="RunManager" selected="Application.stack.MainClass">
+    <configuration name="HashTable.Hash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashTable.Hash" />
+      <module name="DatastructuresandAlgorithm2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HashTable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedLIst.MainClass" />
       <module name="DatastructuresandAlgorithm2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LinkedLIst.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Queues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue.Queues" />
+      <module name="DatastructuresandAlgorithm2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,6 +104,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.stack.MainClass" />
+        <item itemvalue="Application.HashTable.Hash" />
+        <item itemvalue="Application.Queues" />
         <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
@@ -91,7 +126,17 @@
       <workItem from="1673082526004" duration="2587000" />
       <workItem from="1673091361996" duration="23000" />
       <workItem from="1673688963767" duration="4008000" />
-      <workItem from="1673944671671" duration="6967000" />
+      <workItem from="1673944671671" duration="7800000" />
+      <workItem from="1673963085176" duration="1708000" />
+      <workItem from="1674041769887" duration="27000" />
+      <workItem from="1674474921923" duration="269000" />
+      <workItem from="1674569565555" duration="1674000" />
+      <workItem from="1674592895510" duration="2678000" />
+      <workItem from="1676137954048" duration="1733000" />
+      <workItem from="1676229113622" duration="19000" />
+      <workItem from="1676235732869" duration="66000" />
+      <workItem from="1678801730605" duration="4915000" />
+      <workItem from="1678812194284" duration="2487000" />
     </task>
     <task id="LOCAL-00001" summary="Datastructures and Algorithm">
       <created>1672139166713</created>
@@ -121,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673689896691</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Datastructures and Algorithm">
+      <created>1673953184361</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673953184361</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

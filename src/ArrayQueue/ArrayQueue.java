@@ -42,7 +42,7 @@ public class ArrayQueue {
             return count == 0;
         }
 
-        public boolean isFull() {
+        public boolean isFull()  {
             return count == items.length;
         }
 

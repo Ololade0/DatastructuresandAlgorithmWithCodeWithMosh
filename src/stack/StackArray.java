@@ -32,6 +32,7 @@ public class StackArray {
     }
 
     public boolean isEmpty(){
+
         return count == 0;
     }
 
